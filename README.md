@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **Frontened development**
+- 💬 Ask me about **Frontend development**
 
 - 📫 How to reach me **mayank.tarneja2005@gmail.com**
 
